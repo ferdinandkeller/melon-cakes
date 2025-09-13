@@ -1,0 +1,8 @@
+{
+  "parent": "melon-cakes:block/melon_cake_slice2_abstract",
+  "textures": {
+    "end": "minecraft:block/melon_top",
+    "side": "minecraft:block/melon_side",
+    "inner": "melon-cakes:block/melon_inner"
+  }
+}
